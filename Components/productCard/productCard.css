@@ -1,0 +1,75 @@
+.product-header{
+    text-align: center;
+}
+.product-heading{
+    font-size: 30px;
+    font-style: "roboto";
+    font-weight: 400;
+    font: 12px;
+    
+}
+.filter-countainer{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0.5px 0.5px 0.5px 1px;
+}
+.hide{
+text-decoration: underline;
+font-size: 15px;
+font-weight: 100;
+}
+.recommended{
+    font-weight: bold;
+}
+
+.customiz-countainer{
+    display: flex;
+}
+.deal-name{
+    font-size: 12px;
+}
+.list-card{
+    display: flex;
+}
+
+.name-list{
+font-size: 13px;
+font-weight: 600;
+
+}
+
+.material-countainer{
+    display: flex;
+    flex-direction: row;
+}
+.label-count{
+    padding-left: 15px;
+}
+.label{
+    font-size: 13px;
+    font-weight: 700;
+   
+}
+.paga-all{
+    font-size: 11px;
+    font-weight: 100;
+     
+}
+
+.side-countainer{
+    display: flex;
+}
+.log-card{
+    padding-left: 15px;
+    padding-top: 6px;
+}
+
+.name_countainer{
+    padding-left: 12px;
+}
+.un-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}

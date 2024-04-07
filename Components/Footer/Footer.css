@@ -1,0 +1,68 @@
+.FOOTER-COUNTAINER{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 1px 0px #fff;
+}
+.pay{
+    background-color: #fff;
+    height: 20px;
+    width: 40px;
+    border-radius: 4px;
+   margin-left: 12px;
+}
+.google{
+
+padding-left: 10px;
+}
+.countainer-main{
+    background-color: #000;
+}
+.name{
+    color: #fff;
+}
+.paragraph{
+    color: #fff;
+}
+.last-footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.payment{
+    display: flex;
+   
+}
+.follows-us{
+   
+   color: #fff;
+  padding-left: 12px;
+  height: 30px;
+  width: 30px;
+}
+.copy{
+color: #fff;
+font-size: 10px;
+
+}
+.cpoy-countainer{
+    padding-left: 70vh;
+
+}
+.input{
+    height: 30px;
+    width: 220px;
+}
+.button{
+    height: 28px;
+    width: 100px; 
+    margin-left: 12px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 10px;
+    
+}
+.paragraph2{
+    color: #fff;
+    font-size: 10px;
+}

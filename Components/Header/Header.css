@@ -1,0 +1,28 @@
+.header-heading{
+    display: flex;
+    padding-left: 60vh;
+    box-shadow: 0px 1px 1px;
+}
+.heading{
+    font-size: 15px;
+    margin: 20px;
+    font-family: "roboto";
+    font-weight: 7px;
+}
+.log-countainer{
+    display: flex;
+    justify-content: space-between;
+}
+.log{
+    margin: 12px;
+    padding: 12px;
+}
+.logs{
+   padding-right: 60px;
+}
+.heading-name{
+    margin: 12px;
+    padding: 12px;
+    font-size: 20px;
+    padding-left: 20px;
+}

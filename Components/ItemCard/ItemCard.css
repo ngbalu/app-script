@@ -1,0 +1,16 @@
+.main-image{
+    height:20vh;
+    width: 20vh;
+}
+.title-name{
+    font-size: 10px;
+    font-weight: 200;
+}
+.countainer-lart{
+   background-color: bisque;
+   height: 40vh;
+   width: 40vh;
+   margin: 8px;
+   text-align: center;
+   padding-top: 6px;
+}
